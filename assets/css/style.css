@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.div{
+    list-style: none;
+    border: 5px solid white;
+    border-radius: 60px;
+}
+
+.div .btn{
+    background-color: #EEC13D;
+    color: black;
+}
+
+.newsletter{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+.newsletter .btn{
+    background-color: #EEC13D;
+}
+
+body{
+    background-color: #EEC13D;
+}
